@@ -1,0 +1,193 @@
+.crooked{ 
+	margin: 20px;
+position:relative;
+text-align: center
+}
+
+.crooked2{
+
+	display: inline-block;
+	position:relative;
+	vertical-align: top;
+	text-align: center
+}
+
+.crooked2 > * {
+	padding:20px;
+	vertical-align:top;
+	display: inline-block;
+}
+.crooked3 > ol{
+vertical-align: top;
+	padding:left 60px;
+}
+
+.little{
+	padding-top :100px;
+	padding-bottom :100px;
+
+}
+.littler{
+	padding-top :100px;
+	padding-bottom :100px;
+}
+
+.small{
+	display: inline;
+}
+
+.buy{
+	background-color: aquamarine;
+	position: relative;
+	vertical-align: middle;
+	padding: 50px;
+	height: 30px;
+	width: 300px;
+	color:orange;
+	border-radius: 0px 30px 30px 0px;
+	margin:auto;
+	border-top:30px solid aquamarine;
+	display:inline-block;
+
+}
+.learn{
+	background-color: red;
+	position: relative;
+	padding: 200px;
+	height: 100px;
+	width: 100px;
+	color:white;
+	border-radius: 0px 30px 30px 0px;
+	font-family: helvitica; 
+	display:inline-block;
+}
+
+.ok{
+	background-color: orange;
+	position: relative;
+	padding: 50px;
+	height: 100px;
+	width: 750px;
+	color:red;
+	border-radius: 20px 0px 0px 40px;
+	font-family: Courier; 
+	display:inline-block;
+	font-size: 40px
+	
+}
+.signs nav ul li{
+	display:inline;
+}
+
+nav ul li a:hover{
+  color: red;
+  text-decoration: bold;
+  background-color: brown
+
+}
+nav ul li a{
+	
+	background-color: orange;
+	position: relative;
+	padding: 50px;
+	height: 100px;
+	width: 750px;
+	color:red;
+	border-radius: 20px 0px 0px 40px;
+	font-family: Courier; 
+	display:inline-block;
+	font-size: 40px
+}
+.bungy ol li{
+	padding-left:0px;
+}
+.bungy ol li {
+	display:inline;
+
+}
+.bungy ol li a{
+	
+	padding: 10px;
+	height: 20px;
+	width: 70px;
+	color:salmon;
+	font-family: Courier; 
+	display:inline-block;
+	font-size: 12px
+}
+.bungy ol li span{
+	padding: 10px;
+	height: 20px;
+	width: 70px;
+	color:black;
+	display:inline-block;
+	font-size: 12px;
+	text-decoration: underline;
+
+
+}
+#next{
+	text-decoration: none;
+}
+
+.two{
+	float:left;
+	overflow:hidden;
+	padding:0;
+}
+
+.three{
+	display:inline; 
+	    padding-left: 5px;
+	 
+}
+.one{
+	display:flex;
+	padding:8px;
+}
+.times{
+	font-size: 12px;
+	color:grey;	
+
+}
+
+.listorder{
+	display:flex;
+	list-style-type: none;
+	margin-bottom: 0px;
+	padding-left: 5px;
+}
+
+.style{
+	border: 1px solid blue;
+    border-radius: 5px 5px 0px 0px;
+    padding: 8px;
+    margin-right: 10px;
+    border-bottom: 0px;
+
+}
+
+.style a {
+	text-decoration: none
+}
+
+.styles{
+
+    border-bottom-color: white;
+    z-index: 2;
+    background-color: white;
+    
+
+}
+
+.txtbx{
+	border: 1px solid blue;
+    top: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    width: 800px;
+    z-index:0;	
+    background-color: white;
+    position:relative;
+    top: -1px;
+}
